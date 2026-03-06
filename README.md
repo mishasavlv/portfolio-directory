@@ -19,7 +19,7 @@ Wrote a SQL script to aggregate data with customer conversations. Ran data analy
 Created a multi-functional customer-facing AI Agent for roofing contractors that uses RAG (Retrieval-Augmented Generation) and can call external tools.  
 
 * [Agent Hub](https://github.com/mishasavlv/agent-hub)  
-*Skills Used:* **Docker, DevOps/Cloud Deployment, Java Spring Boot, API, Docker, PostgreSQL, Linux, Shell Scripts, Cron, API Integration, Technical Ticketing**  
+*Skills Used:* **Docker, DevOps/Cloud Deployment, Java Spring Boot, API, Docker, PostgreSQL, Configuration Management (Linux), Shell Scripts, Cron, API Integration, Technical Ticketing**  
 Self-hosting a customer interaction platform that tens of thousands of contractors will use to interact with homeowners using AI and human agents across Web, SMS, and Phone channels.  
 
 ## <u>School Projects</u>
